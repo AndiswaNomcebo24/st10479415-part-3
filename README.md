@@ -1,8 +1,8 @@
 Nomcebo Andiswa Hlophe
 ST10479415
 WEDE5020 POE 
-
-
+ https://andiswanomcebo24.github.io/st10479415-part-3/
+https://github.com/AndiswaNomcebo24/st10479415-part-3/edit/main/README.md
 
                                              PART 3
 
